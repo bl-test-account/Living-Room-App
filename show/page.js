@@ -1,1 +1,1 @@
-$('p').text('Hello World: this is the main detail page for the Living Room App.');
+$('p').text('Hello Worlds: this is the main detail page for the Living Room App.');
